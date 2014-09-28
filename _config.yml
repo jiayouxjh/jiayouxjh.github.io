@@ -5,9 +5,9 @@ permalink: /posts/:title.html
 exclude:
   - README.md
 
-name: 慧编程技术博客
-host: x-coding.github.com
-desc: 个人技术博客
+name: 爱丸工作室
+host: http://jiayouxjh.github.io
+desc: 在通往牛逼的路上，我一路裸奔=。=|||
 
 custom:
     category:
