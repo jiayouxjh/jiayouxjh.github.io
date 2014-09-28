@@ -15,10 +15,10 @@ custom:
         another: Another Category
     categories:
       - name:  default
-        title: Default Category
+        title: cocos2d-x
 
       - name:  another
-        title: Another Category
+        title: C/C++
 
     scrollingLoadCount: 5                          # 滚屏自动加载文章数量，“0”为关闭
 
