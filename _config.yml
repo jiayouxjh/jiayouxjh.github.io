@@ -5,7 +5,7 @@ permalink: /posts/:title.html
 exclude:
   - README.md
 
-name: 爱丸
+name: 爱丸工作室
 host: http://jiayouxjh.github.io
 desc: 在通往牛逼的路上，我一路裸奔=。=|||
 
@@ -16,6 +16,7 @@ custom:
     categories:
       - name:  default
         title: cocos
+        title: linux
 
       - name:  another
         title: lua
