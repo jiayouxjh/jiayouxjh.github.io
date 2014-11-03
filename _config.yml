@@ -13,13 +13,16 @@ custom:
     category:
         default: Default Category
         another: Another Category
+        cocos2d-x: Cocos2d-x Category
     categories:
       - name:  default
-        title: cocos
-        title: linux
+        title: C/C++
 
       - name:  another
-        title: lua
+        title: Lua
+
+      - name:  cocos2d-x
+        title: Cocos2d-x
 
     scrollingLoadCount: 5                          # 滚屏自动加载文章数量，“0”为关闭
 
