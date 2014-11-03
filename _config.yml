@@ -11,8 +11,10 @@ desc: 在通往牛逼的路上，我一路裸奔=。=|||
 
 custom:
     category:
-        default: Default Category
-        another: Another Category
+        cocos2d-x: Cocos2d-x Category
+        c_cpp: C/C++ Category
+        lua: Lua Category
+        python: Python Category
     categories:
         - name:  cocos2d-x
         title: Cocos2d-x
