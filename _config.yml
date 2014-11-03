@@ -14,13 +14,19 @@ custom:
         default: Default Category
         another: Another Category
     categories:
-      - name:  default
-        title: cocos2d-x
+        - name:  cocos2d-x
+        title: Cocos2d-x
 
-      - name:  another
+        - name:  c_cpp
         title: C/C++
 
-    scrollingLoadCount: 5                          # 滚屏自动加载文章数量，“0”为关闭
+        - name:  lua
+        title: Lua
+
+        - name:  python
+        title: Python
+
+    scrollingLoadCount: 10                          # 滚屏自动加载文章数量，“0”为关闭
 
 meta:
     author:
