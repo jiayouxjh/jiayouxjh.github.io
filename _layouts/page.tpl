@@ -45,7 +45,7 @@
 			{% if site.meta.author.gravatar %}<img src="{{ site.meta.gravatar}}{{ site.meta.author.gravatar }}?s=48" />{% endif %}
 			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
 		</figure>
-		<p>黑客精神: 崇尚自由、追求创新、崇尚开源</p>
+		<p>写代码的手艺人</p>
 	</div>
 	
 	<div class="block block-license">
