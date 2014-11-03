@@ -14,11 +14,11 @@ custom:
         default: Default Category
         another: Another Category
     categories:
-        - name:  default
-        title: 111
+      - name:  default
+        title: cocos
 
-        - name:  another
-        title: 222
+      - name:  another
+        title: lua
 
     scrollingLoadCount: 5                          # 滚屏自动加载文章数量，“0”为关闭
 
