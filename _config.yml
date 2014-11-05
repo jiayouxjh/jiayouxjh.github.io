@@ -25,7 +25,7 @@ custom:
       - name:  cocos2d-x
         title: Cocos2d-x
 
-      - name: python
+      - name:  python
         title: Python
 
     scrollingLoadCount: 5                          # 滚屏自动加载文章数量，“0”为关闭
