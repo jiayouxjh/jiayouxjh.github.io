@@ -1,7 +1,7 @@
 ---
 layout: post
 title: cocos2d-x 3.x 中用到的c11特性
-category: thinking
+category: cocos2d-x
 ---
 
 ## 回调函数指针传递
