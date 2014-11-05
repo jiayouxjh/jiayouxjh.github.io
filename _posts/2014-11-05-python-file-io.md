@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python中常用的相关文件操作
-category: cocos2d-x
+category: python
 ---
 
 ### 获取当前工作目录
