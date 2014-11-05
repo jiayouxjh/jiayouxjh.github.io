@@ -14,6 +14,7 @@ custom:
         default: Default Category
         another: Another Category
         cocos2d-x: Cocos2d-x Category
+        python: Python Category
     categories:
       - name:  default
         title: C/C++
@@ -23,6 +24,9 @@ custom:
 
       - name:  cocos2d-x
         title: Cocos2d-x
+
+      - name: python
+        title: Python
 
     scrollingLoadCount: 5                          # 滚屏自动加载文章数量，“0”为关闭
 
