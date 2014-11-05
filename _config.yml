@@ -12,14 +12,14 @@ desc: 黑客精神：崇尚自由、追求创新、热衷开源
 custom:
     category:
         default: Default Category
-        another: Another Category
+        another: Lua Category
         cocos2d-x: Cocos2d-x Category
         python: Python Category
     categories:
       - name:  default
         title: C/C++
 
-      - name:  another
+      - name:  lua
         title: Lua
 
       - name:  cocos2d-x
