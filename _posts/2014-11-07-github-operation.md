@@ -34,10 +34,10 @@ category: cocos2d-x
 
 ### 撤销操作
 
-    git reset -hard HEAD              #撤销工作目录中所有未提交文件的修改内容
-    git checkout HEAD <file1> <file2> #撤消指定的未提交文件的修改内容
-    git checkout HEAD .               #撤消所有文件
-    git revert <commit>               #撤消指定的提交
+    git reset -hard HEAD               #撤销工作目录中所有未提交文件的修改内容
+    git checkout HEAD <file1> <file2>  #撤消指定的未提交文件的修改内容
+    git checkout HEAD .                #撤消所有文件
+    git revert <commit>                #撤消指定的提交
 
 ### 分支和标签
 
