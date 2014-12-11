@@ -33,3 +33,8 @@ category: python
 ### 获取文件大小
 
     os.path.getsize(filename)
+
+### 格式化输出字符串
+
+    'Test str {key1} {key2}'.format(key1='hello', key2='world')
+    "My name is %s and weight is %d kg!" % ('Zara', 21)
