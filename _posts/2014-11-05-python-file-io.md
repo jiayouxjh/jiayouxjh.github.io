@@ -45,12 +45,12 @@ category: python
 
 ### 计算文件的MD5值
 
-        from hashlib import md5
-        m = md5()
-        file = open(path, 'rb')
-        m.update(file.read())
-        file.close()
-        md5_str = m.hexdigest()
+    from hashlib import md5
+    m = md5()
+    file = open(path, 'rb')
+    m.update(file.read())
+    file.close()
+    md5_str = m.hexdigest()
 
 ### 按行读取配置文件内容
 
