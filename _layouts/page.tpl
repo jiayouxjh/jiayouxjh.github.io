@@ -20,7 +20,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2012</p>
+		<p>&copy; 爱丸工作室</p>
 	</footer>
 </div>
 
@@ -35,12 +35,12 @@
 	</nav>
 	
 	<form action="/search/" class="block block-search">
-		<h3>Search</h3>
+		<h3>文章搜索</h3>
 		<p><input type="search" name="q" placeholder="Search" /></p>
 	</form>
 	
 	<div class="block block-about">
-		<h3>About</h3>
+		<h3>关于本人</h3>
 		<figure>
 			{% if site.meta.author.gravatar %}<img src="{{ site.meta.gravatar}}{{ site.meta.author.gravatar }}?s=48" />{% endif %}
 			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
