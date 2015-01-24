@@ -28,6 +28,9 @@ custom:
       - name:  python
         title: Python
 
+      - name:  code_about
+        title: 编程相关
+
     scrollingLoadCount: 5                          # 滚屏自动加载文章数量，“0”为关闭
 
 meta:
