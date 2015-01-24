@@ -34,7 +34,7 @@ custom:
         title: Linux
 
       - name:  code_about
-        title: 编程相关
+        title: Code_about
 
     scrollingLoadCount: 5                          # 滚屏自动加载文章数量，“0”为关闭
 
