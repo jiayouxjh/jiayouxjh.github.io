@@ -12,25 +12,26 @@ desc: 黑客精神：崇尚自由、追求创新、热衷开源
 custom:
     category:
         c_cpp: C/C++
-        lua: Lua
         cocos2d-x: Cocos2d-x
-        python: Python
         linux: Linux
+        lua: Lua
+        python: Python
+        code_about: 编程相关
     categories:
       - name:  c_cpp
         title: C/C++
 
-      - name:  lua
-        title: Lua
-
       - name:  cocos2d-x
         title: Cocos2d-x
 
-      - name:  python
-        title: Python
-
       - name:  linux
         title: Linux
+
+      - name:  lua
+        title: Lua
+
+      - name:  python
+        title: Python
 
       - name:  code_about
         title: 编程相关
