@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 常用的Git操作
-category: cocos2d-x
+category: linux
 ---
 
 ### 初始化操作

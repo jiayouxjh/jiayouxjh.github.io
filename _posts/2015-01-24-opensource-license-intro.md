@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 常用开源协议介绍
-category: cocos2d-x
+category: code_about
 ---
 
 ### __Apache-2.0__

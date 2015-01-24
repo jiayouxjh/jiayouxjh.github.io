@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我的2014-2015
-category: cocos2d-x
+category: code_about
 ---
 
 ## 回顾2014
