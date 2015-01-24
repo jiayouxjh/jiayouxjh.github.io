@@ -18,7 +18,7 @@ custom:
         linux: Linux
     categories:
       - name:  c_cpp
-        title: CPP
+        title: C/C++
 
       - name:  lua
         title: Lua
@@ -31,6 +31,9 @@ custom:
 
       - name:  linux
         title: Linux
+
+      - name:  code_about
+        title: 编程相关
 
     scrollingLoadCount: 5                          # 滚屏自动加载文章数量，“0”为关闭
 
