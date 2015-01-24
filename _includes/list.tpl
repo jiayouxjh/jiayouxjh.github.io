@@ -14,6 +14,6 @@
 
 {% if list == null %}
 <article class="empty">
-	<p>该分类下还没有文章</p>
+	<p>博主很懒，该分类下还没有写文章</p>
 </article>
 {% endif %}
