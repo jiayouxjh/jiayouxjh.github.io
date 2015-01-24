@@ -16,7 +16,6 @@ custom:
         cocos2d-x: Cocos2d-x
         python: Python
         linux: Linux
-        code_about: 编程相关
     categories:
       - name:  c_cpp
         title: CPP
@@ -32,9 +31,6 @@ custom:
 
       - name:  linux
         title: Linux
-
-      - name:  code_about
-        title: 编程相关
 
     scrollingLoadCount: 5                          # 滚屏自动加载文章数量，“0”为关闭
 
