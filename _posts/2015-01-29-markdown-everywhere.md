@@ -78,6 +78,7 @@ Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯（John G
     + 参考式
 
             [id]:  http://jiayouxjh.github.io/ "Title"
+
             [链接文字][id]
 
  + 图片
