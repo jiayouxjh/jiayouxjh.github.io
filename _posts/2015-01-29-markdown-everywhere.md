@@ -71,12 +71,14 @@ Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯（John G
 
  + 链接
 
-        行内式
-        [链接文字](http://jiayouxjh.github.io/ "Title")
+    + 行内式
 
-        参考式
-        [id]:  http://jiayouxjh.github.io/ "Title"
-        [链接文字][id]
+            [链接文字](http://jiayouxjh.github.io/ "Title")
+
+    + 参考式
+
+            [id]:  http://jiayouxjh.github.io/ "Title"
+            [链接文字][id]
 
  + 图片
 
@@ -85,3 +87,26 @@ Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯（John G
  + 代码
 
     > 标记一小段行内代码，可以用反引号把它包起来（\`），要在代码区段内插入反引号，可以用多个反引号来开启和结束代码区段。
+
+---
+
+### 使用Markdown同步印象笔记
+
+ + geeknote
+
+    > geeknote是一款使用python编写的命令行工具，可使用与Linux或是Mac的终端上。通过其提供的命令来实现使用Markdown编写修改指定账户下的相关笔记，包括同步指定目录。针对Evernote和印象笔记，geeknote有两个版本，用于不同服务器的同步工作。
+
+ + Evernote版
+
+    > [https://github.com/VitaliyRodnenko/geeknote](https://github.com/VitaliyRodnenko/geeknote "geeknote Evernote版")
+
+ + 印象笔记版
+
+    > [https://github.com/gmajian/geeknote](https://github.com/gmajian/geeknote "geeknote 印象笔记版")
+
+---
+
+### 转换格式
+
+> 使用强大的pandoc，Github地址 [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc "pandoc")
+
