@@ -19,11 +19,13 @@ category: python
 ### 删除一个非空的目录
 
     import shutil
+
     shutil.rmtree(path)
 
 ### 创建单个（多个）目录
 
     os.mkdir(name)
+
     os.makedirs("dir1/dir2")
 
 ### 判断文件是否存在
@@ -41,23 +43,36 @@ category: python
 ### 格式化输出字符串
 
     'Test str {key1} {key2}'.format(key1='hello', key2='world')
+
     "My name is %s and weight is %d kg!" % ('Zara', 21)
 
 ### 计算文件的MD5值
 
     from hashlib import md5
+
     m = md5()
+
     file = open(path, 'rb')
+
     m.update(file.read())
+
     file.close()
+
     md5_str = m.hexdigest()
 
 ### 按行读取配置文件内容
 
     fp = open(path, 'r')
+
     while 1:
+
         line = fp.readline().strip('\r\n')
+
         if not line:
+
             break
+
         print line
+
     fp.close()
+
