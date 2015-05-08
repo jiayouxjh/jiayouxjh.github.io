@@ -11,7 +11,7 @@ category: code_about
         snippet a
         <a href="$1"${2: class="${3:link}"}>
            $0
-        </a>a>
+        </a>
         endsnippet
 
 #### 单词开头自动大写
