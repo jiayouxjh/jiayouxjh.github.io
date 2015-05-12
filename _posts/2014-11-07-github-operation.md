@@ -66,6 +66,10 @@ category: linux
 
     git branch -d <branch>         #删除本地分支
 
+    git branch -va                 #查看远程仓库的其他分支
+
+    git checkout -b origin/name    #切换远程分支
+
     git tag                        #列出所有本地标签
 
     git tag <tagname>              #基于最新提交创建标签
