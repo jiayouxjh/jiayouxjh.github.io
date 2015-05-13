@@ -68,7 +68,7 @@ category: linux
 
     git branch -va                 #查看远程仓库的其他分支
 
-    git checkout -b origin/name    #切换远程分支
+    git checkout -b a origin/a     #切换远程分支
 
     git tag                        #列出所有本地标签
 
