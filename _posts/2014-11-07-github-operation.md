@@ -40,6 +40,8 @@ category: linux
 
     git log -p <file>  #查看指定文件的提交历史
 
+    git log HEAD       #查看已经add但还没有commit的文件
+
     git blame <file>   #以列表方式查看指定文件的提交历史
 
     git status         #查看当前状态
@@ -48,7 +50,7 @@ category: linux
 
 ### 撤销操作
 
-    git reset -hard HEAD               #撤销工作目录中所有未提交文件的修改内容
+    git reset --hard HEAD               #撤销工作目录中所有未提交文件的修改内容
 
     git checkout HEAD <file1> <file2>  #撤消指定的未提交文件的修改内容
 
