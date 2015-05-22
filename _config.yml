@@ -16,6 +16,7 @@ custom:
         linux: Linux
         lua: Lua
         python: Python
+        android: Android
         code_about: 编程相关
     categories:
       - name:  c_cpp
@@ -32,6 +33,9 @@ custom:
 
       - name:  python
         title: Python
+
+      - name: android
+        title: Android
 
       - name:  code_about
         title: 编程相关
